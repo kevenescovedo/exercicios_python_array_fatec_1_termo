@@ -1,0 +1,9 @@
+1. Faça um algoritmo que calcule e apresente a média de idades de uma sala de 35 alunos. 
+2. Faça um algoritmo que calcule e apresente a média de alturas de uma sala de 35 alunos. Informe também quantos alunos e quais são os que possuem idade superior a 25 anos.
+ 3. Faça um programa que carregue um vetor de dez elementos que contenha o nome de pessoas e outro que contenha o peso, encontre qual a pessoa mais gorda e mais magra e apresente o nome o peso das mesmas. 
+4. Faça um programa que carregue um vetor com nota de dez alunos, calcule e mostre a média da sala e quantos alunos estão acima e abaixo da média da sala. 5. Faça um programa que carregue um vetor de oito elementos numéricos inteiros, calcule e mostre os números pares e suas respectivas posições. 
+6. Faça um programa que carregue um vetor com dez nomes e faça uma verificação se um determinado nome esta nesse vetor. 
+7. Faça um algoritmo que calcule e apresente a média de alturas superior a 1,80. Informe também quantos e quais são os alunos.
+ 8. Criar um algoritmo que a partir de um vetor de 10 elementos inteiros, crie outros dois vetores que receberão os elementos positivos e negativos e ao final apresente-os. 
+9. Criar um algoritmo que leia dados para um vetor de 100 elementos inteiros, imprimir o maior, o menor, o percentual de números pares e a média dos elementos do vetor. Obs.: percentual = quantidade contada * 100 / quantidade total) 
+10. Um vetor é palíndromo se ele não se alterar quando o mesmo for invertido. Por exemplo, o vetor original vo = {1, 3, 5, 2, 2, 5, 3, 1} é palíndromo, pois ele invertido é vi = {1, 3, 5, 2, 2, 5, 3, 1}, igual ao original. Escreva um algoritmo que verifique se um vetor é palíndromo, fazendo comparação de posição por posição do vetor origem (vo) com o vetor invertido(vi). 
